@@ -1,6 +1,6 @@
 <?php
 
-namespace Tymon\JWTAuth\Providers\Auth;
+namespace selvin007\JWTAuth\Providers\Auth;
 
 use Exception;
 use Illuminate\Auth\AuthManager;
